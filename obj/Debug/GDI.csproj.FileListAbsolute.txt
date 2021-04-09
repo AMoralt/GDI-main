@@ -1,0 +1,20 @@
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\bin\Debug\GDI.exe.config
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\bin\Debug\GDI.exe
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\bin\Debug\GDI.pdb
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.csprojAssemblyReference.cache
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.Form1.resources
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.exe
+C:\Users\ПК\OneDrive\Документы\2 курс\2 полугодие\ИиКГ\GDI\obj\Debug\GDI.pdb
+C:\Users\ildar\Desktop\GDI-main\bin\Debug\GDI.exe.config
+C:\Users\ildar\Desktop\GDI-main\bin\Debug\GDI.exe
+C:\Users\ildar\Desktop\GDI-main\bin\Debug\GDI.pdb
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.csprojAssemblyReference.cache
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.Form1.resources
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.Properties.Resources.resources
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.csproj.GenerateResource.cache
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.exe
+C:\Users\ildar\Desktop\GDI-main\obj\Debug\GDI.pdb
